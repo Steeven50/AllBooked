@@ -91,6 +91,4 @@ This project was completed under time constraints, and some features remain unim
 
 Contributions are welcome! Feel free to report issues, suggest enhancements, or submit pull requests.
 
-## Contact
 
-For any questions or feedback, please contact Sam Narciso at samnarciso3300@gmail.com.
